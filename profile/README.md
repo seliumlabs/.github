@@ -1,6 +1,7 @@
 # Selium
 
-Selium is a composable data streaming platform with zero build time configuration.
+Selium is an extremely developer friendly composable messaging platform with zero build time
+configuration.
 
 ## Features
 
