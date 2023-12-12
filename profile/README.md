@@ -23,7 +23,7 @@ deployment and get on with coding.
 
 #### Messaging patterns
 
-Selium supports both publish-subscribe and RPC patterns, allowing you to disseminate data and
+Selium supports both publish-subscribe and request-reply patterns, allowing you to disseminate data and
 consume services over the same platform. No more gagging while you reach for that REST toolkit!
 
 #### Namespaces FTW!
